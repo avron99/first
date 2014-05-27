@@ -1,0 +1,1 @@
+<?php $view->extend('TrololoHelloBundle::layout.html.php') ?>
