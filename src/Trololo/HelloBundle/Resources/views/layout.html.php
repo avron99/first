@@ -8,7 +8,7 @@
 <style type="text/css">
     .block1 {
         width: 400px;
-        background: #5bccc4;
+        background: #23f4ac;
         padding: 5px;
         padding-right: 20px;
         border: solid 1px black;

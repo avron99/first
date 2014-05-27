@@ -1,3 +1,9 @@
 trololo_hello_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: TrololoHelloBundle:Default:index }
+    pattern:  /add
+    defaults: { _controller: TrololoHelloBundle:FirstPage:index }
+trololo_hello_new:
+    pattern:  /new
+    defaults: { _controller: TrololoHelloBundle:FirstPage:new }
+trololo_hello_old:
+    pattern:  /old
+    defaults: { _controller: TrololoHelloBundle:FirstPage:old }
