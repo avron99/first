@@ -17,6 +17,6 @@ public function newAction()
     public function oldAction()
     {
         return $this->render('TrololoHelloBundle:Default:old.html.php');
-        $form = $this->createForm(new old(), $task);
+
     }
 }
