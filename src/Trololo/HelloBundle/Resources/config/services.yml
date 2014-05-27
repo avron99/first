@@ -1,0 +1,7 @@
+parameters:
+#    trololo_hello.example.class: Trololo\HelloBundle\Example
+
+services:
+#    trololo_hello.example:
+#        class: %trololo_hello.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

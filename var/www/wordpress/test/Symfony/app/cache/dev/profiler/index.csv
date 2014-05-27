@@ -1,0 +1,4 @@
+6fc87d,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/hello/username,1399885086,
+bc5312,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/hello/username,1399886092,
+67c851,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/blog,1399886452,9e2bca
+9e2bca,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/blog,1399886452,

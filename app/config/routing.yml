@@ -1,0 +1,6 @@
+trololo_hello:
+    resource: "@TrololoHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+
